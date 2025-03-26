@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-**Project Title** : Digital Music Store Analysis
-**Database** : 'music_store_database'
+**Project Title**: Digital Music Store Analysis  
+**Database**: `music_store_database`
 
 ## Objective
 

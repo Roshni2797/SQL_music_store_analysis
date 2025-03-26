@@ -11,10 +11,10 @@ Analyzed a music playlist database using SQL (PostgreSQL) to uncover insights in
 
 ## Key Insights
 
-✅ Identified the top-selling artists and genres driving revenue.
-✅ Analyzed customer purchase behavior to enhance marketing strategies.
-✅ Discovered playlist trends influencing customer engagement.
-✅ Provided actionable recommendations for revenue optimization.
+✅ Identified the top-selling artists and genres driving revenue.  
+✅ Analyzed customer purchase behavior to enhance marketing strategies.  
+✅ Discovered playlist trends influencing customer engagement.  
+✅ Provided actionable recommendations for revenue optimization.  
 
 ## Conclusion
 
